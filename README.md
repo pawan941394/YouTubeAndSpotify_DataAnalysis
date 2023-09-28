@@ -20,27 +20,27 @@ The "YouTube and Spotify Data Analysis" project is an exploration of user behavi
 
 # Project Highlights
 
-Data Preparation: Describe any significant data preprocessing steps, such as data cleaning, transformation, or feature engineering.
+ * Data Preparation: Describe any significant data preprocessing steps, such as data cleaning, transformation, or feature engineering.
+ 
+ * SQL Queries: Highlight key SQL queries or operations performed on the MySQL database.
 
-SQL Queries: Highlight key SQL queries or operations performed on the MySQL database.
+ * Visualization: Mention the main visualizations created using Tableau and Power BI, and how they contribute to the project's objectives.
 
-Visualization: Mention the main visualizations created using Tableau and Power BI, and how they contribute to the project's objectives.
-
-Insights: Summarize the key insights or findings derived from the analysis.
+ * Insights: Summarize the key insights or findings derived from the analysis.
 
 # Folder Structure
 
-DataBase : This folder contain the Youtube and Spotify Data.
+ * DataBase : This folder contain the Youtube and Spotify Data.
 
-Power Bi : This folder contains the 'POWER BI' works for visualizations.
+ * Power Bi : This folder contains the 'POWER BI' works for visualizations.
 
-Python Work : This folder contains the 'PYTHON WORK' for cleaning the DataBase.
+ * Python Work : This folder contains the 'PYTHON WORK' for cleaning the DataBase.
 
-SQL Work : This folder contains the 'SQL WORK' .
+ * SQL Work : This folder contains the 'SQL WORK' .
 
-Tableau DashBoard : This folder contans the 'TABLEAU WORK' for visualizations.
+ * Tableau DashBoard : This folder contans the 'TABLEAU WORK' for visualizations.
 
-Cleaned DataBase : This folder contains the cleaned data which we use for this Performing SQL Work.
+ * Cleaned DataBase : This folder contains the cleaned data which we use for this Performing SQL Work.
 
 
 # SQL WORKS (Some of Sql Queries) --
